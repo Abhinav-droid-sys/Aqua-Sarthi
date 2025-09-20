@@ -1,6 +1,6 @@
 streamlit
+matplotlib
 pandas
 numpy
 plotly
-deep-translator
-
+googletrans==4.0.0-rc1
